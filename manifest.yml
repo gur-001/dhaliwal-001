@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: dhaliwal-001
+  host: dhaliwal-001
+  disk_quota: 1024M
